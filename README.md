@@ -7,13 +7,13 @@ will be able to create, edit, and manage their personal notes in one place.
 At this stage, the project focuses on setting up the server, organizing the
 project structure, and creating a landing page for future development.
 
----
+
 
 ## Team Members
 
-- Abraam — (group)
+- Baisal,Raimbek,Dias,Ibrahim
 
----
+
 
 ## Project Topic
 
@@ -22,7 +22,7 @@ It is designed to help users store and manage notes in a simple and clear way.
 For now, the application includes a landing page that describes the idea of the
 project, the team, and the planned features.
 
----
+
 
 ## Technologies Used
 
@@ -31,7 +31,7 @@ project, the team, and the planned features.
 - HTML
 - CSS
 
----
+
 
 ## Project Structure
 
